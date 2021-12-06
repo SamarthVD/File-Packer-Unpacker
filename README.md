@@ -4,8 +4,8 @@ By using this project we can fetch data from all files and merge it into one fil
 as we can also extract all packed file whenever required.
 Platform required -
  Windows NT platform OR Linux,
-User Interface 
+User Interface -
  Graphical User Interface ,
-Technology used 
+Technology used - 
  Java Programming.
  
