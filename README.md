@@ -3,9 +3,9 @@ This project is used to perform packing and unpacking activity for multiple type
 By using this project we can fetch data from all files and merge it into one file. As well 
 as we can also extract all packed file whenever required.
 Platform required -
- Windows NT platform OR Linux
+ Windows NT platform OR Linux,
 User Interface 
- Graphical User Interface 
+ Graphical User Interface ,
 Technology used 
- Java Programming
+ Java Programming.
  
